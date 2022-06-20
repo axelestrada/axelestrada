@@ -56,3 +56,11 @@
     <img src="https://img.shields.io/badge/-axelestradadev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/axelestradadev/"/>
   </a>
 </p>
+
+<!-- Contribution graph -->
+<h2 align="center">Mis Contribuciones <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
+
+<p align="center">
+  <img src="https://github.com/axelestrada/axelestrada/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
