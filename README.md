@@ -36,23 +36,23 @@
 <h2 align="center">Contáctame en <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-  <a href="https://facebook.com/axelestradadev">
+  <a href="https://facebook.com/axelestradadev" target="_blank">
     <img src="https://img.shields.io/badge/-axelestradadev-blue?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/axelestradadev"/>
   </a>
 
-  <a href="https://www.instagram.com/axelestradadev">
+  <a href="https://www.instagram.com/axelestradadev" target="_blank">
     <img src="https://img.shields.io/badge/-axelestradadev-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/axelestradadev/"/>
   </a>
 
-  <a href="https://twitter.com/axelestradadev">
+  <a href="https://twitter.com/axelestradadev" target="_blank">
     <img src="https://img.shields.io/badge/-axelestradadev-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/axelestradadev"/>
   </a>
 
-  <a href="mailto: axele1524@gmail.com">
+  <a href="mailto: axele1524@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-axele1524-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:axele1524@gmail.com"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/axelestradadev/">
+  <a href="https://www.linkedin.com/in/axelestradadev/" target="_blank">
     <img src="https://img.shields.io/badge/-axelestradadev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/axelestradadev/"/>
   </a>
 </p>
