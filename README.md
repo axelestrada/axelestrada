@@ -41,7 +41,11 @@
   </a>
 
   <a href="https://www.instagram.com/axelestradadev">
-    <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/axelestradadev/"/>
+    <img src="https://img.shields.io/badge/-axelestradadev-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/axelestradadev/"/>
+  </a>
+
+  <a href="https://twitter.com/axelestradadev">
+    <img src="https://img.shields.io/badge/-axelestradadev-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/axelestradadev"/>
   </a>
 
   <a href="mailto: axele1524@gmail.com">
@@ -50,9 +54,5 @@
 
   <a href="https://www.linkedin.com/in/axelestradadev/">
     <img src="https://img.shields.io/badge/-axelestradadev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/axelestradadev/"/>
-  </a>
-
-  <a href="https://twitter.com/axelestradadev">
-    <img src="https://img.shields.io/badge/-axelestradadev-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/axelestradadev"/>
   </a>
 </p>
