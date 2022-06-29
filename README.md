@@ -22,8 +22,6 @@
 
 - 👨🏻‍💻 Life Hack: Aprende nuevas tecnologías :fire: y comparte lo que has aprendido :tada:
 
-- ⚡ Dato Curioso: Me gusta salir a rodar en moto 🛵 con mis amigos
-
 ## 🛠️ Tecnologías y Herramientas que Utilizo:
 
 <p>
