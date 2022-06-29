@@ -1,81 +1,86 @@
-<!-- https://axelestrada.ml -->
+<h1 align="center">
+  Hola
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"/>
+  Soy Axel Estrada
+</h1>
 
-<!-- Cover -->
-<p align="center"></p>
+## 👨🏻‍💻 Sobre Mi:
 
-<img  src="https://github.com/axelestrada/axelestrada/blob/master/images/cover.jpg" />
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-<!-- Main details badges -->
-<p align="center">
-  <img src="https://badges.pufler.dev/visits/axelestrada/axelestrada"/>
-  <img src="https://badges.pufler.dev/repos/axelestrada"/>
-  <img src="https://badges.pufler.dev/commits/monthly/axelestrada" />
+- 🙋‍♂️ Todo sobre mi en **[Mi Sitio Web](https://axelestrada.ml)**
+
+- 🔭 Actualmente estoy trabajando en `Algo Interesante`
+
+- 🌱 Actualmente estoy aprendiendo `DevOps`
+
+- 👯 Estoy buscando colaborar en `Proyectos de Desarrollo`
+
+- 🤔 Estoy buscando ayuda con `Programación Competitiva`
+
+- 💬 Pregúntame sobre cualquier cosa, Excepto Amor :sweat_smile:
+
+- 👨🏻‍💻 Life Hack: Aprende nuevas tecnologías :fire: y comparte lo que has aprendido :tada:
+
+- ⚡ Dato Curioso: Me gusta salir a rodar en moto 🛵 con mis amigos
+
+## 🛠️ Tecnologías y Herramientas que Utilizo:
+
+<p>
+  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
+  <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
+  <img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
+  <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
+  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
+  <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+  <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
+  <img alt="Typescript" src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=ffffff"  height="25px"/>
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
+  <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
+  <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-1572B6?style=flat-square&logo=mysql&logoColor=white" height="25px"/>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
+  <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github&logoColor=white" height="25px"/>
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel&logoColor=white" height="25px"/>
 </p>
 
-<!-- Technology Stack -->
-<h2 align="center">Tecnologías <img src="https://github.com/axelestrada/axelestrada/blob/master/images/laptop.gif" width="50"></h2>
+## ❤️ Conectémonos:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-F2F2F2?style=flat-square&logo=tailwindcss"/>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript" />    
-  <img src="https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js"/>
-  <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"/>
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-</p>
-
-<!-- Reach me out on -->
-<h2 align="center">Contáctame en <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-
-<p align="center">
+<p>
+  <a href="https://axelestrada.ml/" target="_blank">
+    <img alt="Sitio Web" src="https://img.shields.io/badge/axelestrada.ml-2088FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" />
+  </a>
+  
   <a href="https://facebook.com/axelestradadev" target="_blank">
-    <img src="https://img.shields.io/badge/-axelestradadev-blue?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/axelestradadev"/>
+    <img alt="Facebook" src="https://img.shields.io/badge/facebook-3b5998.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/>
   </a>
-
-  <a href="https://www.instagram.com/axelestradadev" target="_blank">
-    <img src="https://img.shields.io/badge/-axelestradadev-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/axelestradadev/"/>
+  
+   <a href="https://twitter.com/axelestradadev" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/>
   </a>
-
-  <a href="https://twitter.com/axelestradadev" target="_blank">
-    <img src="https://img.shields.io/badge/-axelestradadev-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/axelestradadev"/>
-  </a>
-
-  <a href="mailto: axele1524@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-axele1524-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:axele1524@gmail.com"/>
-  </a>
-
+  
   <a href="https://www.linkedin.com/in/axelestradadev/" target="_blank">
-    <img src="https://img.shields.io/badge/-axelestradadev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/axelestradadev/"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
+  </a>
+    
+  <a href="https://www.instagram.com/axelestradadev/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/>
   </a>
 </p>
 
-<!-- Contribution graph -->
-<h2 align="center">Mis Contribuciones <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
+## Mis Estadísticas de Github:
 
-<p align="center">
-  <img src="https://github.com/axelestrada/axelestrada/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-<!-- Github stats -->
-<h2 align="center">Mis Estadísticas de Github <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=axelestrada&layout=compact&theme=radical&hide=java&locale=es">
-</p> 
-
-<p align = "center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=axelestrada&show_icons=true&locale=es&theme=radical&line_height=0" />
-</p> 
-
-<p align = "center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=axelestrada&theme=redical">
-</p> 
+<div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=axelestrada&show_icons=true&theme=radical&locale=es" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axelestrada&theme=radical&locale=es" alt="axelestrada" />
+  <br />
+  <br />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=axelestrada&locale=es&theme=radical">
+</div>
