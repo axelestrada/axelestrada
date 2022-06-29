@@ -75,10 +75,12 @@
   </a>
 </p>
 
-## Mis Estadísticas de Github:
+## 📊 Mis Estadísticas de Github:
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=axelestrada&show_icons=true&theme=radical&locale=es" />
+  <br />
+  <br /> 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axelestrada&theme=radical&locale=es" alt="axelestrada" />
   <br />
   <br />  
