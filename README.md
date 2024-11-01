@@ -9,7 +9,7 @@ Desarrollador Frontend en crecimiento con pasión por crear experiencias de usua
 * 🌍  I'm based in Tegucigalpa, Honduras
 * 🖥️  See my portfolio at [Mi Portafolio](http://portfolio-delta-lemon-30.vercel.app)
 * ✉️  You can contact me at [axele1524@gmail.com](mailto:axele1524@gmail.com)
-* 🚀  I'm currently working on [Monety](http://(s)://github.com/axelestrada/monety)
+* 🚀  I'm currently working on [Monety](https://github.com/axelestrada/monety)
 
 ### Skills
 
