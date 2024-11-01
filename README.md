@@ -8,19 +8,15 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ Todo sobre mi en **[Mi Sitio Web](https://axelestrada.ml)**
+- 🙋‍♂️ Todo sobre mi en **[Mi Sitio Web](https://portfolio-delta-lemon-30.vercel.app)**
 
-- 🔭 Actualmente estoy trabajando en `Algo Interesante`
+- 🔭 Actualmente estoy trabajando en **[Monety](https://github.com/axelestrada/monety)**
 
-- 🌱 Actualmente estoy aprendiendo `DevOps`
+- 🌱 Actualmente estoy constantemente mejorando mis habilidades con `React Native`
 
 - 👯 Estoy buscando colaborar en `Proyectos de Desarrollo`
 
 - 🤔 Estoy buscando ayuda con `Programación Competitiva`
-
-- 💬 Pregúntame sobre cualquier cosa, Excepto Amor :sweat_smile:
-
-- 👨🏻‍💻 Life Hack: Aprende nuevas tecnologías :fire: y comparte lo que has aprendido :tada:
 
 ## 🛠️ Tecnologías y Herramientas que Utilizo:
 
