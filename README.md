@@ -1,6 +1,6 @@
 # ¡Hola! Soy Axel Estrada
 
-🚀 **Frontend Developer | React & React Native**  
+🚀 **Desarrollador Frontend | React & React Native**  
 📍 Apasionado por la creación de aplicaciones web y móviles con **React, React Native y TypeScript**.  
 
 ---
