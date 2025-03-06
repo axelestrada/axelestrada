@@ -14,7 +14,7 @@
 
 ### 🛠 Tech Stack
 🔹 **Lenguajes:** JavaScript, TypeScript  
-🔹 **Frontend:** React, React Native, Expo  
+🔹 **Frontend:** Angular, React, React Native, Expo  
 🔹 **Estado global:** Redux, Zustand  
 🔹 **Bases de datos:** SQLite, Firebase  
 🔹 **Herramientas:** Git/GitHub, Figma
