@@ -101,7 +101,7 @@ Aplicación para la gestión y digitalización de pequeños comercios, enfocada 
 
 Desarrollada utilizando tecnologías modernas para crear una experiencia rápida, intuitiva y escalable.
 
-https://github.com/axelestrada/mi-pulperia-releases
+https://github.com/axelestrada/mi-pulperia-releases/latest
 
 ---
 
